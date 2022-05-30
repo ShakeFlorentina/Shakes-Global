@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+    color: black;
+    background-color: lightgoldenrodyellow;
+}
+ul{
+    background-color: grey;
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+
+}
+li{
+    float: left;
+}
+li,a{
+    text-align: center;
+    padding: 15px;
+    display: block;
+    color: deeppink;
+    text-decoration: none;
+}
+p{
+    text-align: center;
+    font-style: italic;
+    color: black;
+}
+
